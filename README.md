@@ -41,4 +41,7 @@ On Windows (MinGW): `complaint_tracker.exe`
 High ≥ 4, Medium = 3, Low ≤ 2. Base priorities: Civic 1, Corruption 2, Harassment 3, Safety 3.
 
 ## Authors
-Add your names and enrollment numbers here.
+**Group 3I1** – BTECH, 3rd Semester, Object-Oriented Programming Using C++
+
+- Mukul Singh (07714803125)
+- Chris Smith (07114803125)
